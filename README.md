@@ -72,6 +72,9 @@ bitsToText() – Converts binary back to ASCII
 Schneier, Bruce. Applied Cryptography. Wiley, 2nd Edition, 1996.
 
 👤 Author
+
 Developed by Basmala Nabil El-Sayed
+
 Faculty of Computer Science – Cairo University (International Branch)
+
 Department: Networking and Cybersecurity
