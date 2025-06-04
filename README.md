@@ -31,8 +31,6 @@ Works with any plaintext input length
 
 💡 How to Use
 
-Open the LFSR.java file in IntelliJ IDEA or any Java-compatible IDE.
-
 Run the main method.
 
 Follow the interactive prompts:
